@@ -43,7 +43,7 @@ pip install pandas openpyxl
 1. Clone this repository
 2. Ensure dependencies are installed (see [Requirements](#requirements)).
 3. Run the application:
-   ```bash
+```bash
 python DCMS.py
 ````
 
