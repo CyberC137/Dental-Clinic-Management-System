@@ -40,15 +40,7 @@ pip install pandas openpyxl
 
 ## Installation
 
-1. Clone this repository:
-
-   ```bash
-   ```
-
-git clone [https://github.com/](https://github.com/)<your-username>/dental-clinic-management.git
-cd dental-clinic-management
-
-````
+1. Clone this repository
 2. Ensure dependencies are installed (see [Requirements](#requirements)).
 3. Run the application:
    ```bash
