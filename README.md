@@ -20,7 +20,7 @@ A desktop application built with Python and Tkinter for managing patients, appoi
 * [Usage](#usage)
 * [Project Structure](#project-structure)
 * [Contributing](#contributing)
-* [License](#license)
+* [Disclaimer](#disclaimer)
 
 ## Requirements
 
